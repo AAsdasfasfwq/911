@@ -1,0 +1,7 @@
+@font-face { font-family: 'Bebas Neue'; font-style: normal; font-weight: 400; font-display: block; src: url('./BebasNeue-400.woff2') format('woff2'); }
+@font-face { font-family: 'IBM Plex Mono'; font-style: normal; font-weight: 400; font-display: block; src: url('./IBMPlexMono-400.woff2') format('woff2'); }
+@font-face { font-family: 'IBM Plex Mono'; font-style: normal; font-weight: 600; font-display: block; src: url('./IBMPlexMono-600.woff2') format('woff2'); }
+@font-face { font-family: 'Inter Tight'; font-style: normal; font-weight: 300 900; font-display: block; src: url('./InterTight-var.woff2') format('woff2'); }
+@font-face { font-family: 'Oswald'; font-style: normal; font-weight: 300 700; font-display: block; src: url('./Oswald-var.woff2') format('woff2'); }
+@font-face { font-family: 'Playfair Display'; font-style: italic; font-weight: 400 900; font-display: block; src: url('./PlayfairDisplay-var-i.woff2') format('woff2'); }
+@font-face { font-family: 'Special Elite'; font-style: normal; font-weight: 400; font-display: block; src: url('./SpecialElite-400.woff2') format('woff2'); }

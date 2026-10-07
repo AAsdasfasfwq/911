@@ -1,0 +1,16 @@
+{
+  "name": "nine-eleven-documentary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Procedural 3D documentary video (Three.js + Web Audio), rendered frame-by-frame with Puppeteer",
+  "scripts": {
+    "preview": "node server.js",
+    "render": "node render.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  },
+  "devDependencies": {
+    "three": "0.170.0"
+  }
+}
